@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Deloitte Portugal as a Junior Programmer.
+- 🌱 I’m currently learning about Cloud, Java and iOS.
+- 👯 I’m looking to collaborate on iOS projects.
+- 🤔 I’m looking for help with iOS projects.
+- 💬 Ask me about Java, iOS, Cloud, volleyball.
+
+
 <!--
 **matiasarielol/matiasarielol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
