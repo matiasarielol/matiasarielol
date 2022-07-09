@@ -1,28 +1,47 @@
-### Hi there 👋
+Hi there 👋
+Welcome to my Github personal page.
 
-### Welcome to my Github personal page 😃
+🙋‍♂️ I'm Matias an Ecuadorian and 21 years-old Computer Science Engineer.
 
-🙋‍♂️ I'm Matias, 21 years old. I was born and raised in Ecuador 🇪🇨
+ABOUT ME:
+🧑‍💻 I started programming when I was 14 years old (stopped for a couple of years to focus on my now failed career as a professional volleyball player 🤪)
 
-🕺 I've always loved to exercise 🏋️, play sports 🏐⚽️🎾, listen to music 🎧, watch films and series 🎬, spend time with my family and friends 🍻, 
+Once I finished high school in my origin country Ecuador 🇪🇨  , I decided to study abroad and moved to Portugal 🇵🇹. That is how at the age of 17 I was starting University and in 2021 I earned my bachelor’s degree in Computer Engineering at the Polytechnic of Leiria. 🎓
+💼 In September, 2021 I moved to Porto and since then I have been working at Deloitte Portugal as a Junior Programmer in the Financial Services area. 
 
-🤓 But above all, I love to learn 📖, specially about history 📜, politics 🗣, psychology 🧠, science 🧪 and technology 💻.
+💬 MY PROGRAMING SKILLS
+So far, I've worked with:
+•	Java
+•	PHP
+•	JavaScript
+•	HTML
+•	MySQL
+•	OracleSQL
+•	MongoDB
+•	Swift, SwiftUI, UIKit, ARKit. As well as, Planning, designing and developing iOS applications.
+Besides, I’ve administrated
+•	Linux and Windows Systems
+•	Cloud Services (Microsoft Azure and AWS) 
 
-🧑‍💻 I started pogrmaming when I was 14 years old (stopped for a couple of years to focus on my now failed carrer as a professional volleyball player 🤪)
+During my free time I’m learning about:
+☁️Cloud solutions
+🍎 iOS Development
+🐍 Python
 
-🎓 Once I finished highschool, I decided I wanted to study abroad 🗺. That's why I moved to Portugal 🇵🇹 at 17 for college and in 2021 I earned my Computer Engineering Bsc degree from the Polytechnic of Leiria.
+💿 Here you'll be able to find some of my personal and University projects. Feel free to take a look at them😉
 
-💼 In September, 2021 I moved to Porto and I've been working at Deloitte Portugal as a Junior Programmer in the Financial Services area ever since.
+📫 Reach me out by:
+•	LinkedIn: linkedin.com/in/matiasarielol
+•	Twitter: twitter.com/matiasarielol
+•	Email: matluna.pub@gmail.com
+Feel free to reach me out in English, Spanish and Portuguese. 
 
-💬 So far, I've worked with Java, PHP, JavaScript, HTML, MySQL, OracleSQL, MongoDB, Swift, SwiftUI, UIKit, ARKit. Also administratying Linux and Windows systems, cloud services (Microsoft Azure and AWS) and planning, designing and developming iOS applications.
-
-📚 During my free I'm learning about Cloud solutions ☁️, iOS development 📱 and Python 🐍.
-
-💿 Here you'll be able to find some of my personal and university projects. Feel free to take a look and ask questions if you feel to. 😉
-
-📫 Here are some of my contacts if you ever want to reach me:
- 
-  - Linkedin: linkedin.com/in/matiasarielol
-  - Twitter: twitter.com/matiasarielol
-  - Email: matluna.pub@gmail.com
-
+EXTRA:
+Behind the screen I am a man who is really into: 
+📜History
+🗣 Politics 
+🧠 Psychology 
+🧪 science 
+💻 technology 
+🏋️Exercise and Sports 🏐 ⚽🎾
+🎧Listen to music
