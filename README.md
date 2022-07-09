@@ -1,15 +1,16 @@
-Hi there 👋
-Welcome to my Github personal page.
+# Hi there 👋
+## Welcome to my Github personal page.
 
-🙋‍♂️ I'm Matias an Ecuadorian and 21 years-old Computer Science Engineer.
+🙋‍♂️ I'm Matias, I'm 21 and I love computer science.
+💿 On this repository you'll be able to find some of my personal and university projects. 
 
-ABOUT ME:
-🧑‍💻 I started programming when I was 14 years old (stopped for a couple of years to focus on my now failed career as a professional volleyball player 🤪)
+### 😃 About me
+I started programming when I was 14 years old 🧑‍💻, but stopped a couple of years to focus on my now failed career as a professional volleyball player 🤪.
+Then, after high school, I decided to study the university abroad, and that's how at the age of 17 I moved to Portugal 🇵🇹 to purse my dream, which I ended up achieving in 2021 when I earned my bachelor’s degree in Computer Engineering at the Polytechnic of Leiria 🎓.
 
-Once I finished high school in my origin country Ecuador 🇪🇨  , I decided to study abroad and moved to Portugal 🇵🇹. That is how at the age of 17 I was starting University and in 2021 I earned my bachelor’s degree in Computer Engineering at the Polytechnic of Leiria. 🎓
 💼 In September, 2021 I moved to Porto and since then I have been working at Deloitte Portugal as a Junior Programmer in the Financial Services area. 
 
-💬 MY PROGRAMING SKILLS
+### 💬 MY PROGRAMING SKILLS
 So far, I've worked with:
 •	Java
 •	PHP
@@ -18,32 +19,28 @@ So far, I've worked with:
 •	MySQL
 •	OracleSQL
 •	MongoDB
-•	Swift, SwiftUI, UIKit, ARKit. As well as, Planning, designing and developing iOS applications.
-Besides, I’ve administrated
-•	Linux and Windows Systems
+•	Swift, SwiftUI, UIKit, ARKit. Planning, designing and developing iOS apps.
+•	Linux and Windows Systems (SysOps)
 •	Cloud Services (Microsoft Azure and AWS) 
-
-During my free time I’m learning about:
-☁️Cloud solutions
+During my free time I like learning about:
+☁️ Cloud solutions
 🍎 iOS Development
 🐍 Python
 
-💿 Here you'll be able to find some of my personal and University projects. Feel free to take a look at them😉
+# ☎️ CONTACTS
+You can reach out to me (in English, Spanish and Portuguese) by:
+📫 LinkedIn: linkedin.com/in/matiasarielol
+📫 Twitter: twitter.com/matiasarielol
+📫 Email: matluna.pub@gmail.com
 
-📫 Reach me out by:
-•	LinkedIn: linkedin.com/in/matiasarielol
-•	Twitter: twitter.com/matiasarielol
-•	Email: matluna.pub@gmail.com
-Feel free to reach me out in English, Spanish and Portuguese. 
-
-EXTRA:
+### EXTRA:
 Behind the screen I am a man who is really into: 
-📜History
-🗣 Politics 
-🧠 Psychology 
+📜 history
+🗣 politics 
+🧠 psychology 
 🧪 science 
 💻 technology 
-🏋️Exercise and Sports 🏐 ⚽🎾
-🎧Listen to music 
-🎬Cinema 
-🫶🏼Family and friends
+🏋️ exercise and sports 🏐 ⚽🎾
+🎧 music
+🎬 cinema 
+🫶🏼 family and friends
