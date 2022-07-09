@@ -1,8 +1,8 @@
-## Hi there 👋  Welcome to my Github personal page!
+## Hi there 👋 
 
-🙋‍♂️ I'm Matias, I'm 21 and I love computer science.
+🙋‍♂️ I'm Matias, I'm a 21 yearl-old Computer Engineer.
 
-💿 On this repository you'll be able to find some of my personal and university projects. 
+💿 On this repository you can find some of my personal and university projects.
 
 ### 😃 About me
 I started programming when I was 14 years old 🧑‍💻, but stopped a couple of years to focus on my now failed career as a professional volleyball player 🤪.
@@ -12,16 +12,16 @@ Then, after high school, I decided to study the university abroad, and that's ho
 
 ### 💬 MY PROGRAMING SKILLS
 So far, I've worked with:
-•	Java
-•	PHP
-•	JavaScript
-•	HTML
-•	MySQL
-•	OracleSQL
-•	MongoDB
-•	Swift, SwiftUI, UIKit, ARKit. Planning, designing and developing iOS apps.
-•	Linux and Windows Systems (SysOps)
-•	Cloud Services (Microsoft Azure and AWS) 
+-	Java
+-	PHP
+-	JavaScript
+-	HTML
+- MySQL
+-	OracleSQL
+-	MongoDB
+-	Swift, SwiftUI, UIKit, ARKit. Planning, designing and developing iOS apps.
+-	Linux and Windows Systems (SysOps)
+-	Cloud Services (Microsoft Azure and AWS) 
 During my free time I like learning about:
 ☁️ Cloud solutions
 🍎 iOS Development
