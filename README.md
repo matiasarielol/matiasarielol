@@ -1,7 +1,7 @@
-# Hi there 👋
-## Welcome to my Github personal page.
+## Hi there 👋  Welcome to my Github personal page!
 
 🙋‍♂️ I'm Matias, I'm 21 and I love computer science.
+
 💿 On this repository you'll be able to find some of my personal and university projects. 
 
 ### 😃 About me
@@ -27,7 +27,7 @@ During my free time I like learning about:
 🍎 iOS Development
 🐍 Python
 
-# ☎️ CONTACTS
+### ☎️ CONTACTS
 You can reach out to me (in English, Spanish and Portuguese) by:
 📫 LinkedIn: linkedin.com/in/matiasarielol
 📫 Twitter: twitter.com/matiasarielol
