@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### Welcome to my Github personal page 😃
-### Let me introduce myself ....
 
 🙋‍♂️ I'm Matias, 21 years old. I was born and raised in Ecuador 🇪🇨
 
