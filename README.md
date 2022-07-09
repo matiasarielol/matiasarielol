@@ -22,16 +22,17 @@ So far, I've worked with:
 -	Swift, SwiftUI, UIKit, ARKit. Planning, designing and developing iOS apps.
 -	Linux and Windows Systems (SysOps)
 -	Cloud Services (Microsoft Azure and AWS) 
+
 During my free time I like learning about:
-☁️ Cloud solutions
-🍎 iOS Development
-🐍 Python
+- ☁️ Cloud solutions
+- 🍎 iOS Development
+- 🐍 Python
 
 ### ☎️ CONTACTS
 You can reach out to me (in English, Spanish and Portuguese) by:
-📫 LinkedIn: linkedin.com/in/matiasarielol
-📫 Twitter: twitter.com/matiasarielol
-📫 Email: matluna.pub@gmail.com
+- 📫 LinkedIn: linkedin.com/in/matiasarielol
+- 📫 Twitter: twitter.com/matiasarielol
+- 📫 Email: matluna.pub@gmail.com
 
 ### EXTRA:
 Behind the screen I am a man who is really into: 
