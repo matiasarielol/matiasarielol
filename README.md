@@ -12,7 +12,7 @@
 
 🎓 Once I finished highschool, I decided I wanted to study abroad 🗺. That's why I moved to Portugal 🇵🇹 at 17 for college and in 2021 I earned my Computer Engineering Bsc degree from the Polytechnic of Leiria.
 
-💼 And since September, 2021 I've been working at Deloitte Portugal as a Junior Programmer in the Financial Services area.
+💼 In September, 2021 I moved to Porto and I've been working at Deloitte Portugal as a Junior Programmer in the Financial Services area ever since.
 
 📚 During my free I'm learning about Cloud solutions ☁️, iOS development 📱 and Python 🐍.
 
