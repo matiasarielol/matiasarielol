@@ -14,6 +14,8 @@
 
 💼 In September, 2021 I moved to Porto and I've been working at Deloitte Portugal as a Junior Programmer in the Financial Services area ever since.
 
+💬 So far, I've worked with Java, PHP, JavaScript, HTML, MySQL, OracleSQL, MongoDB, Swift, SwiftUI, UIKit, ARKit. Also administratying Linux and Windows systems, cloud services (Microsoft Azure and AWS) and planning, designing and developming iOS applications.
+
 📚 During my free I'm learning about Cloud solutions ☁️, iOS development 📱 and Python 🐍.
 
 💿 Here you'll be able to find some of my personal and university projects. Feel free to take a look and ask questions if you feel to. 😉
