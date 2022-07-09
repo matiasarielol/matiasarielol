@@ -44,4 +44,6 @@ Behind the screen I am a man who is really into:
 🧪 science 
 💻 technology 
 🏋️Exercise and Sports 🏐 ⚽🎾
-🎧Listen to music
+🎧Listen to music 
+🎬Cinema 
+🫶🏼Family and friends
